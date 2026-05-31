@@ -366,6 +366,26 @@ AutoHive is especially relevant for web scraping and data automation roles becau
 
 ---
 
+## Snapshots
+
+**Home Page**
+
+<img width="1920" height="1589" alt="image" src="https://github.com/user-attachments/assets/b57905fb-6176-498d-8c75-a4222ed5c268" /><br>
+
+**Brand Analytics**
+
+<img width="1920" height="1148" alt="brandanalytics" src="https://github.com/user-attachments/assets/5ed8c7eb-fcda-4274-a492-e1776c651cc8" /><br>
+
+**Market Insights**
+
+<img width="1920" height="1683" alt="marketinsights" src="https://github.com/user-attachments/assets/4eb37509-edc4-4275-88cf-1c684f310791" /><br>
+
+**Listings & Exports**
+
+<img width="1920" height="1734" alt="listingnexports" src="https://github.com/user-attachments/assets/a58a36b0-9ab7-4063-99e8-89dca2173e9e" /><br>
+
+---
+
 ## Author
 
 **Nishant Goyal**\
