@@ -12,6 +12,8 @@ The main objective of AutoHive is to build an end-to-end data extraction and ana
 
 The system collects publicly available car listing details such as car name, year, price, kilometers driven, fuel type, transmission, location, and listing URL. The scraped data is then cleaned, stored, and analyzed to generate useful insights such as average price trends, inventory distribution, fuel-type patterns, and price comparison based on kilometers driven.
 
+Dashboard link: https://autohive-e76gdxkfa7rhaverjqhzyx.streamlit.app/
+
 ---
 
 ## Features
