@@ -1,0 +1,6 @@
+name,price,km_driven,fuel_type,transmission,location,url,scraped_at,clean_price,clean_km_driven,year,brand
+2020 Hyundai i20 Sportz,₹8.5 lakh,"45,000 km",Petrol,Manual,Delhi,https://example.com/car1,2026-05-30,850000,45000,2020,Hyundai
+2019 Maruti Swift VXI,₹5.2 lakh,"60,000 km",Petrol,Manual,Mumbai,https://example.com/car2,2026-05-30,520000,60000,2019,Maruti
+2021 Honda City VX,₹11.8 lakh,"30,000 km",Petrol,Automatic,Bangalore,https://example.com/car3,2026-05-30,1180000,30000,2021,Honda
+2018 Tata Nexon XZ,₹7.1 lakh,"55,000 km",Diesel,Manual,Pune,https://example.com/car4,2026-05-30,710000,55000,2018,Tata
+2022 Kia Seltos HTX,₹14.5 lakh,"20,000 km",Diesel,Automatic,Delhi,https://example.com/car5,2026-05-30,1450000,20000,2022,Kia

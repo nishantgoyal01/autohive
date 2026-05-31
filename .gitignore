@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+.env
+
+# Optional: ignore raw scraped data
+data/raw/
+
+# Keep cleaned sample data if you want to show output
+# data/processed/
