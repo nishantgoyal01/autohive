@@ -278,7 +278,7 @@ http://localhost:8501
 
 ## Required Dependencies
 
-Add the following packages inside `requirements.txt`:
+The following packages are inside `requirements.txt`:
 
 ```txt
 beautifulsoup4
